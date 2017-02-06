@@ -1,4 +1,4 @@
-this is first edit
+﻿this is first edit
 
 this is second edit
 
@@ -12,3 +12,6 @@ this will be pull to my pc
 
 1/17 this is edior in branch test
 editor at 2月6
+
+editor in local
+
