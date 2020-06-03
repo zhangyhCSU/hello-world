@@ -1,2 +1,10 @@
 /i_am_ignore_file.txt
 *.bak
+
+e_dir/
+e_file
+!/e_file
+exclude_dir/re*
+!**/reinclude
+#m_dir/a_file
+
